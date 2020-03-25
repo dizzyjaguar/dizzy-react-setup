@@ -1,0 +1,11 @@
+{
+  "name": "dizzy-react-setup",
+  "version": "1.0.0",
+  "description": "A bootstrap for my React setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eli Zevin",
+  "license": "ISC"
+}
